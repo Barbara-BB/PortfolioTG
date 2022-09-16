@@ -5,7 +5,7 @@
 - [Introdução](#introdução)
 - [Principais conhecimentos](#principais-conhecimentos)
 - [Links para contato](#contato)
-- [LittlePet - 1º Semestre (2020-1)]()
+- [LittlePet - 1º Semestre (2020-1)](https://github.com/Barbara-BB/PortfolioTG/blob/main/AP1_LittlePet/readme.md)
 - [MinhaJornada - 2º Semestre (2020-2)]()
 - [SkillShare-X - 3º Semestre (2021-1)]()
 - [TecSoja - 4º Semestre (2022-1)]()
