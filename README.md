@@ -17,12 +17,12 @@
 
 <img align="right"  src="https://avatars.githubusercontent.com/u/60778277?v=4"   width="300" heigh="300" />
 
-Sou estudante do curso de Análise e Desenvolvimento de Sistemas -ADS na Faculdade de Tecnologia  de São José dos Campos - Prof.Jessen Vidal, e atualmente estou cursando o 5º semestre.
+Sou estudante do curso de Análise e Desenvolvimento de Sistemas -ADS na Faculdade de Tecnologia  de São José dos Campos - Prof.Jessen Vidal e atualmente estou cursando o 5º semestre.
 
-<p>A primeira vez que estudei programção foi durante o curso de Técnico em Mecânica no Colégio Técnico Industrial de Guaratinguetá - CTIG, porém não tive boas experiências com a programação naquele momento e acreditei não ter habilidade para essa área.</p>
-<p>Depois de terminar o ensino médio junto com o Técnico em Mecânica, começei a trabalhar na Petrobras e algumas demandas me fizeram começar a utilizar VBA e HTML/CSS, porque eu precisava automatizar tarefas e construir relatórios. Quando notei, eu estava aprendendo programação e estava sendo prazeroso e por isso eu decidi que em algum momento faria uma faculdade na área de programação.</p>
-<p>Na época que notei que programação não era ruim, eu estava cursando Engenharia Ambiental na UFSCar, então pretendia terminar esta formação primeiro, mas infelizmente me deparei com empecilhos, não havia professores disponíveis para lecionar determinadas disciplinas e concluí que na situação em o curso estava seria muito dificil concluir.</p>
-<p>Solicitei a desistência do curso e no mesmo ano realizei alguns vestibulares, incrivelmente passei em todos e poderia continuar a Engenharia Ambiental na Unesp, mas também tinha passado no curso que atualmente estou e já estava tão apaixonada pela programção que escolhi realmente migrar para o 0 e 1 da programação.</p>
+<p>A primeira vez que estudei programação foi durante o curso de Técnico em Mecânica no Colégio Técnico Industrial de Guaratinguetá - CTIG, porém não tive boas experiências com a programação naquele momento e acreditei não ter habilidade para essa área.</p>
+<p>Depois de terminar o ensino médio junto com o Técnico em Mecânica, começei a trabalhar na Petrobras e algumas demandas me fizeram começar a utilizar VBA e HTML/CSS, porque eu precisava automatizar tarefas e construir relatórios. Quando notei, eu estava aprendendo programação com Python e estava sendo prazeroso e por isso eu decidi que em algum momento faria uma faculdade na área de programação.</p>
+<p>Na época que notei que programação não era assustador, eu estava cursando Engenharia Ambiental na UFSCar, então eu pretendia terminar esta formação primeiro, mas infelizmente me deparei com empecilhos, não havia professores disponíveis para lecionar determinadas disciplinas e concluí que nesta situação, seria muito dificil concluir o curso.</p>
+<p>Solicitei a desistência do curso e no mesmo ano realizei alguns vestibulares, incrivelmente passei em todos e poderia continuar a Engenharia Ambiental na Unesp, mas também tinha passado no curso que atualmente estou e já estava tão apaixonada pela programação que escolhi realmente migrar para o 0 e 1 da programação.</p>
 <p>Ainda pretendo terminar a Engenharia Ambiental porque entendo que são cursos que podem vir a se complementarem, mas estou muito satisfeita pela migração e hoje não temho mais medo de uma tela de comando.</p>
 
 Eu permaneço trabalhando na Petrobras, apesar de não ser especificamente na área do curso eu sempre procuro utilizar o que eu aprendo.
@@ -30,9 +30,11 @@ Ainda preciso fazer estágio e trabalhar na área de TI, mas como é uma migraç
 
 Portanto este repositório tem o intuito de apresentar os 6 projetos, chamados APIs, os quais participei ao longo dos semestres cursados no curso de Análise e Desenvolvimento de Sistemas -ADS na Faculdade de Tecnologia  de São José dos Campos - Prof.Jessen Vidal de forma a demonstrar minha conquista de habilidades e conhecimentos ao longo do curso.
 
-**Carreira acadêmica:**
+<h2>Carreira acadêmica:</h2>
 
 * Ensino médio e Técnico em Mecânica cursado no Colégio Técnico Industrial de Guaratinguetá - CTIG-UNESP
+* Engenharia Ambiental - UFSCar - interrompida
+* Análise e Desenvolvimento de Sistemas -  em curso
 * Iniciação Científica CNPQ - Orientador: Eduardo Norberto Codaro. Com publicações dos artigos abaixo:
 
 
@@ -45,10 +47,10 @@ Portanto este repositório tem o intuito de apresentar os 6 projetos, chamados A
 
 3.
  BIDETTI, B. B.; BALTHAZAR, P. A. ; ACCIARI, H. A. ; CODARO, E. N. . UMA EXPERIENCIA DE CORROSAO ATMOSFERICA: EFEITO DOS OXIDOS DE NITROGENIO E DE ENXOFRE NA CORROSAO METALICA.. In: XXII CONGRESSO DE INICIAÇÃO CIENTÍFICA DA UNESP, 2010., 2010. UMA EXPERIENCIA DE CORROSAO ATMOSFERICA: EFEITO DOS OXIDOS DE NITROGENIO E DE ENXOFRE NA CORROSAO METALICA., 2010. p. 4487-4490.
-        
+     
  
  
-**Carreira profissional:**
+<h2>Carreira profissional:</h2>
 
 - Trabalhei na Tecnoval Laminados até junho de 2011.
 - Atualmente trabalho na Petrobras como Técnica com ênfase em operação.
@@ -84,7 +86,7 @@ Portanto este repositório tem o intuito de apresentar os 6 projetos, chamados A
         <td align="center"></td>
      </tr>
       <tr>
-        <td align="center">CSS / SCSS</td>
+        <td align="center">CSS</td>
         <td align="center"></td>
         <td align="center">X</td>
         <td align="center"></td>
@@ -142,13 +144,14 @@ Portanto este repositório tem o intuito de apresentar os 6 projetos, chamados A
 
 <h2>Contato</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-CurriculoLattes-blue?style=flat-square&logo=Linkedin=white&link=http://lattes.cnpq.br/8035863365100790/)](http://lattes.cnpq.br/8035863365100790/) 
+
 <a target="_blank" href="http://lattes.cnpq.br/8035863365100790?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bf5p2aZNDQFWDZTzVPmd65A%3D%3D">
   <img   src="https://img.shields.io/badge/Curriculo_Lattes-0077B5?style=for-the-badge&logo=linkedin=white" />
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/barbara-bidetti-bb910a1b3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bf5p2aZNDQFWDZTzVPmd65A%3D%3D">
   <img   src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a> <a target="_blank" href="mailto:barbarabidetti@gmail.com">
+</a> 
+<a target="_blank" href="mailto:barbarabidetti@gmail.com">
   <img align="left"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
