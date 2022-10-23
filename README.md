@@ -5,15 +5,13 @@
 - [Introdução](#introdução)
 - [Principais conhecimentos](#principais-conhecimentos)
 - [Links para contato](#contato)
-- [LittlePet - 1º Semestre (2020-1)](https://github.com/Barbara-BB/PortfolioTG/blob/main/AP1_LittlePet/readme.md)
-- [MinhaJornada - 2º Semestre (2020-2)]()
-- [SkillShare-X - 3º Semestre (2021-1)]()
-- [TecSoja - 4º Semestre (2022-1)]()
+- [Meus projetos](#projetos)
+
 
 
 <h2>Introdução</h2>
 
-[<img src="https://svgshare.com/i/WF7.svg" width = "300em" height="25em">](#menu-de-navegação)
+
 
 <img align="right"  src="https://avatars.githubusercontent.com/u/60778277?v=4"   width="300" heigh="300" />
 
@@ -58,7 +56,7 @@ Portanto este repositório tem o intuito de apresentar os 6 projetos, chamados A
 
 <h2>Principais Conhecimentos</h2>
 
-[<img src="https://svgshare.com/i/WF7.svg" width = "300em" height="25em">](#menu-de-navegação)
+
 
 <table border="1">
     <tr>
@@ -140,6 +138,96 @@ Portanto este repositório tem o intuito de apresentar os 6 projetos, chamados A
         <td align="center"></td>
      </tr>
   </table>
+  
+<h2>Projetos</h2>
+  <details><summary>LittlePet - 1º Semestre (2020-1)</summary>
+<p>
+
+<h1>LittlePet</h1>
+ <img src="https://github.com/Barbara-BB/LittlePet/blob/main/Docs/imagens/logo%20little%20pet.png" >
+
+# Parceiro acadêmico
+No primeiro semestre não houve parceiro, a FATEC-SJC que atuou como parceiro do projeto.
+A proposta era criar um projeto com utilização de arduino e programação em bloco, sendo que a ideia do projeto deveria ser definida pelo grupo.
+
+# Sobre o projeto
+A LittlePet foi criada com o propósito de atender roedores e lagomorfos, fornecendo um alimentador smart que fosse capaz de dispensar rações cilindricas sem travar, sendo que as rações cilindricas são o formato padrão para alimentos de roedores e lagomorfos. Também foi adicionado ao projeto a medição da quantidade de ração fornecida e a identificação do dispenser de ração vazio.
+
+***[Link oficial do respositório :octocat:](https://github.com/Barbara-BB/LittlePet)***
+
+# Tecnologias utilizadas
+
+A LittlePet utilizou as seguintes tecnologias:
+
+
+<p>C++ arduino - programação da WIFI-LORA</p>
+<p>Kodular - programação do aplicativo com interface com a WIFI-LORA</p>
+<p>Firebase - Banco de dados para valores medidos</p>
+<p>MQTT - comunicação da LittlePet</p>
+
+# Hardwares utilizados
+
+1. WIFI-Lora com Display
+2. Ponte H dupla Driver motor
+3. Motor 12V 15KGF
+4. HX711
+5. Balança
+6. Fonte 12DC
+
+ 
+  # Contribuições pessoais
+  
+O meu diferencial no projeto foi principalente na programação do hardware com C++ arduino, fiz todas as conexões dos dispositvos eletrônicos e realizei a programação para o funcionamento do motor, display e balança pela WIFI-LORA.
+
+Também auxiliei no KODULAR no momento das conexões com o hardware.
+
+Fiz as conexões com Firebase e MQTT.
+
+  
+# Hard Skills
+  
+- C++ ARDUINO: Sei fazer com autonomia.
+- FIREBASE: Sei fazer com autonomia.
+- KODULAR: Sei fazer com autonomia.
+- MQTT: Sei fazer com auxilio de consultas.
+
+
+
+# Soft Skills
+ 
+- Liderança como Product Owner: 
+
+Eu possuía um breve conhecimento sobre Scrum e nunca tinha desempenhado nenhuma função no Scrum.
+
+Portanto nesse projeto tive a oportunidade de desenvolver liderança como Product Owner ao idealizar o produto com base nos requisitos.
+
+Além do desafio de compartilhar esta visão do produto com grupo, pois necessitei estabelecer técnicas para que todos tivessem a mesma perspectiva que eu do produto a ser entregue.
+
+- Proatividade:
+
+A definição do que seria entregue em cada sprint em acordo com  o cliente era minha responsabilidade, por isso eu tive que sempre me antecipar às necessidades de cada sprint para conseguir negociar corretamente e ter uma visão ampla do projeto.
+
+Portanto, antes de uma sprint encerrar, eu já tinha que ter planejado e estruturado a próxima para que a equipe não tivesse que aguardar as orientações.
+
+- Autonomia: 
+
+Eu não tinha muito conhecimento de programação, o contato tinha sido com o básico em Python e VBA.
+
+Quando os requisitos do projeto foram apresentados, precisa possuir comandos em arduino ou semelhante por um aplicativo.
+
+Eu não tinha noção da programação necessária para o projeto, tive que estudar muitas madrugadas para entender como funcionava.
+
+A eletrônica, que eu já possuía conhecimento sólido da minha formação em Técnica em Mecânica, auspiciosamente, ajudou muito.
+
+Durante as madrugadas eu combinava meus conhecimentos de eletrônica para montar os circuitos com as aprendizagens da programação para arduino e posteriormente para Wifi-Lora.
+
+A cada sprint era necessário novas funcionalidades, o que me fez aprender C++ para programar o arduino e Wifi-Lora, MQTT para enviar/receber mensagens pela internet e Firebase para enviar os dados da balança para um banco de dados.
+
+Portanto, eu pouco conhecia de linguagens de programação e mal sabia o que era um banco dados,mas lendo e assistindo muitos tutoriais em madrugadas sem fim, eu aprendi e implementei funcionalidades na LittlePet com programação e banco de dados.
+
+
+</p>
+</details>
        
 
 <h2>Contato</h2>
