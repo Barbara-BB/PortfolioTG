@@ -443,7 +443,7 @@ Toda a perseverança trouxe resultados que eu não sabia ser capaz de produzir, 
 <p>
 <h1>SkillShare</h1>
  <div align="center">
- <img src="https://github.com/Barbara-BB/PortfolioTG/blob/main/imagens/TecSoja.jpg" >
+ <img src="https://github.com/Barbara-BB/PortfolioTG/blob/main/imagens/TecSojacapa.jpg" >
  </div>
 
 # Parceiro acadêmico
