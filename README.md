@@ -235,11 +235,12 @@ Portanto, eu pouco conhecia de linguagens de programação e mal sabia o que era
  <img src="https://github.com/PITime01/Minha-Jornada/blob/master/documentos/Capa.gif" >
 
 # Parceiro acadêmico
-No segundo semestre, o parceiro acadêmico era a Ness Health.
-A proposta da Ness Health tinha o intuito de auxiliar na administração da jornada de motoristas, dessa forma, um sistema web deveria ser criado.
+No segundo semestre, o parceiro acadêmico foi a Ness Health.
+A Ness Health através da IonicHealth promove inovação e transformação digital na medicina diagnóstica propondo soluções que automatizam, monitoram e teleoperam equipamentos clínicos. Conheça melhor a  [IonicHealth](https://pt-br.ionic.health/).
+A proposta da Ness Health tinha o intuito de auxiliar na administração da jornada de motoristas rodoviários, dessa forma, um sistema web deveria ser criado.
 
 # Sobre o projeto
-O Minha Jornada foi criado de forma atender motoristas no registro de suas jornadas, atendendo os cumprimentos legais e acordos sindicais, sendo que o registro de jornadas, possibilitaria evidênciar os cumprimentos de folgas e o pagamento de horas trabalhadas.
+O Minha Jornada foi criado de forma atender motoristas rodoviários no registro de suas jornadas, atendendo os cumprimentos legais e acordos sindicais, sendo que o registro de jornadas, possibilitaria evidênciar os cumprimentos de folgas e o pagamento de horas trabalhadas.
 
 ***[Link oficial do respositório :octocat:](https://github.com/Barbara-BB/Minha-Jornada)***
 
@@ -260,6 +261,29 @@ Auxiliei na busca das regras de acordos coletivos, na leitura das determinaçõe
 
 No software, atuei focada no front-end, criando a prototipação, colaborado na criação das telas com HTML e CSS.
 Tamém colaborei com a modelagem pelo BrModelo de forma que a modelagem do banco atendesse às regras de negócio.
+
+Segue Implementações em que eu participei na construção:
+
+<table>
+  <tr>
+    <td><img src="https://camo.githubusercontent.com/409a02e7e768d18513857a83297c0d1afacc591d35a838a59e4e3c45a35fa10d/68747470733a2f2f6a2e676966732e636f6d2f6f56714f4e582e676966" width="500" /></td>
+    <td><img src="https://github.com/PITime01/Minha-Jornada/blob/SPRINT-2/crud_final_6.gif" width="500" /></td>      
+  </tr>
+   <tr>
+     <td align="center">Listagem de usuários do Minha Jornada.</p></td>
+     <td align="center">CRUD de funcionários e sindicatos.</td>
+  </tr>
+</table>
+<div align="center">
+<table>
+  <tr align="center">
+    <td align="center"><img src="https://github.com/PITime01/Minha-Jornada/blob/SPRINT-2/SPRINT%202/Diagrama%20sprint02.jpg" align="center" /></td>    
+  </tr>
+   <tr>
+     <td align="center">Modelagem do banco de dados</p></td>
+  </tr>
+</table>
+</div>
 
 
   
