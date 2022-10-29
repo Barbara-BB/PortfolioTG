@@ -140,7 +140,7 @@ Portanto este repositório tem o intuito de apresentar os 6 projetos, chamados A
   </table>
   
 <h2>Projetos</h2>
-  <details><summary>LittlePet - 1º Semestre (2020-1)</summary>
+  <details><summary><span color=`#0969DA`>LittlePet - 1º Semestre (2020-1)</span></summary>
 <p>
 
 <h1>LittlePet</h1>
@@ -235,9 +235,19 @@ Portanto, eu pouco conhecia de linguagens de programação e mal sabia o que era
  <img src="https://github.com/PITime01/Minha-Jornada/blob/master/documentos/Capa.gif" >
 
 # Parceiro acadêmico
-No segundo semestre, o parceiro acadêmico foi a Ness Health.
-A Ness Health através da IonicHealth promove inovação e transformação digital na medicina diagnóstica propondo soluções que automatizam, monitoram e teleoperam equipamentos clínicos. Conheça melhor a  [IonicHealth](https://pt-br.ionic.health/).
-A proposta da Ness Health tinha o intuito de auxiliar na administração da jornada de motoristas rodoviários, dessa forma, um sistema web deveria ser criado.
+No segundo semestre, o parceiro acadêmico foi a IACIT.
+ 
+A IACIT  é uma empresa brasileira que desenvolve produtos e sistemas para as áreas abaixo:
+- Auxílio do Controle e do Tráfego Aéreo e Marítimo
+- Defesa e Segurança Pública
+- Fábrica de Software
+- Meteorologia
+- Pesquisa, Desenvolvimento e Inovação
+- Telemetria e Agronegócio
+ 
+Conheça melhor a  [IACIT](https://www.iacit.com.br/).
+ 
+A proposta da IACIT tinha o intuito de auxiliar na administração da jornada de motoristas rodoviários, dessa forma, um sistema web deveria ser criado.
 
 # Sobre o projeto
 O Minha Jornada foi criado de forma atender motoristas rodoviários no registro de suas jornadas, atendendo os cumprimentos legais e acordos sindicais, sendo que o registro de jornadas, possibilitaria evidênciar os cumprimentos de folgas e o pagamento de horas trabalhadas.
@@ -252,6 +262,7 @@ O Minha Jornada utilizou as seguintes tecnologias:
 - Hibernate - Comunicação da interface com o banco de dados
 - Postgres SQL - Banco de dados relacional para armazenamento dos dados
 - Spring- Framework para estrutura MVC e gerenciamento de dependências do projeto
+-  JAVA - Formulários, inserção de dados e consulta
 - HTML e CSS - Front-end, interface gráfica do projeto
 - FIGMA -Prototipação das telas do projeto
 - BrModelo - Modelagem do banco de dados
@@ -266,13 +277,16 @@ Segue Implementações em que eu participei na construção:
 
 <table>
   <tr>
-    <td><img src="https://camo.githubusercontent.com/409a02e7e768d18513857a83297c0d1afacc591d35a838a59e4e3c45a35fa10d/68747470733a2f2f6a2e676966732e636f6d2f6f56714f4e582e676966" width="500" /></td>
-    <td><img src="https://github.com/PITime01/Minha-Jornada/blob/SPRINT-2/crud_final_6.gif" width="500" /></td>      
+    <td><img src="https://camo.githubusercontent.com/409a02e7e768d18513857a83297c0d1afacc591d35a838a59e4e3c45a35fa10d/68747470733a2f2f6a2e676966732e636f6d2f6f56714f4e582e676966" width="800" /></td>
+      
   </tr>
-   <tr>
+    <tr>
      <td align="center">Listagem de usuários do Minha Jornada.</p></td>
-     <td align="center">CRUD de funcionários e sindicatos.</td>
+     
   </tr>
+ <tr> <td><img src="https://github.com/PITime01/Minha-Jornada/blob/SPRINT-2/crud_final_6.gif" width="800" /></td>   </tr>
+
+  <tr><td align="center">CRUD de funcionários e sindicatos.</td></tr>
 </table>
 <div align="center">
 <table>
@@ -313,6 +327,111 @@ Diante da dificuldade da presença do Master, tomei o comando de deslocar o Mast
 - Autonomia: 
 
 Eu já conhecia HTML, mas não conhecia CSS assim como não sabia como construir um CRUD(Create, Read, Update and Delete) de um banco de dados. Assistindo tutoriais, aprendi como realizá-los e apliquei no projeto.
+
+
+</p>
+</details>
+
+
+<details><summary>SkillShare - 3º Semestre (2021-1)</summary>
+<p>
+<h1>SkillShare</h1>
+ <div align="center">
+ <img src="https://github.com/Barbara-BB/PortfolioTG/blob/main/imagens/SkillShare.PNG" >
+ </div>
+
+# Parceiro acadêmico
+No terceiro semestre, o parceiro acadêmico foi a Ness Health.
+A Ness Health através da IonicHealth promove inovação e transformação digital na medicina diagnóstica propondo soluções que automatizam, monitoram e teleoperam equipamentos clínicos. Conheça melhor a  [IonicHealth](https://pt-br.ionic.health/).
+
+A proposta da Ness Health era criar um LMS (Learning Management System) para cadastro e realização de treinamentos on-line e gratuitos para funcionários aperfeiçoarem suas habilidades técnicas!
+
+# Sobre o projeto
+O SkillShare é um LMS que oferece cursos gratuitos on-line para aperfeiçoamento e aprendizagem dos colaboradores de uma empresa, ajustando-se às várias formas de aprendizado do usuário, além de permitir o controle e análise pelos gestores de sua staff.
+
+***[Link oficial do respositório :octocat:](https://github.com/Barbara-BB/API-RGBA)***
+
+# Tecnologias utilizadas
+
+SkillShare utilizou as seguintes tecnologias:
+
+
+- Hibernate - Comunicação da interface com o banco de dados
+- Postgres SQL - Banco de dados relacional para armazenamento dos dados
+- Spring- Framework para estrutura MVC e gerenciamento de dependências do projeto
+- HTML e CSS - Front-end, interface gráfica do projeto
+- Javascript - Animações nas telas e criação do Slider
+- Java - Criação de cadastros, consultas e formulários
+ - Invision - Criação do Wireframe
+- FIGMA -Prototipação das telas do projeto
+- BrModelo - Modelagem do banco de dados
+- TakeBlip - Criação de Chatbot
+- IBM Watson - Inteligência artificial pata o Chatbot
+
+# Contribuições pessoais
+Atuei no front end, estruturando o design do LMS com as imagens. Também criei grande parte do slider da tela principal utilizando Javascript.
+ 
+Criei o Chatbot com integração de inteligência artifical da IBM Watson, que foi treinada por mim.
+
+ Colaborei na criação do Wireframe, esboços das telas a serem entregues.
+
+
+
+Segue Implementações em que eu participei na construção:
+
+<table>
+  <tr>
+    <td><img src="https://github.com/giovannialves01/API-RGBA/blob/main/doc/Sprint1/GIFS/Home" width="500" /></td>
+    <td><img src="https://github.com/giovannialves01/API-RGBA/blob/SPRINT-2/doc/Sprint%202/Gifs/chatbot%20e%20home.gif" width="500" /></td>      
+  </tr>
+   <tr>
+     <td align="center">Slider e estrutura do LMS com as imagens.</p></td>
+     <td align="center">Chatbot em funcionamento.</td>
+  </tr>
+</table>
+<div align="center">
+<table>
+  <tr align="center">
+    <td align="center"><img src="https://raw.githubusercontent.com/giovannialves01/API-RGBA/main/doc/Wireframes/Entrega%201/pagina_inicial.png" align="center" /></td>    
+  </tr>
+   <tr>
+     <td align="center">Wireframes</p></td>
+  </tr>
+</table>
+</div>
+
+
+  
+# Hard Skills
+- HTML e CSS - construção das telas
+- Javascript - Slider
+- Invision - Wireframe
+- TakeBlip - Construção do chatbot
+- IBM Watson - Inteligência artificial utilizada para o chatbot
+
+
+
+
+# Soft Skills
+ 
+- Ideativa: 
+
+Não havia requisito para o chatbot, mas eu tive a ideia de implementá-lo pois o LMS lidaria dieretamente com alunos e desta forma os alunos poderiam sanar a maioria das dúvidas pelo chatbot. 
+
+Foi um desafio, pois nunca tinha construído um chatbot e foram vários testes para chegar no resultado final.
+
+Também conhecia brevemente sobre IA, tive que aprender como treinar IA e idealizar as perguntas que as pessoas poderiam fazer e como provavelmente seriam feitas para poder treinar a IA da forma mais abrangente possível.
+
+- Estudiosa:
+
+Além de necessitar estudar para o chatbot e IA, eu também não tinha experiência com javascript, mas encarei o desafio e consegui estruturar o slider inicial.
+
+
+- Realização:
+
+Apesar de parte do grupo estar com mais experiência em programação, mantive muita perseverança com dedicação e estudos.
+Toda a perseverança trouxe resultados que eu não sabia ser capaz de produzir, já que o uso de IA costuma ser exigido no último semestre do curso de ADS. 
+
 
 
 </p>
