@@ -228,6 +228,71 @@ Portanto, eu pouco conhecia de linguagens de programação e mal sabia o que era
 
 </p>
 </details>
+
+<details><summary>Minha Jornada - 2º Semestre (2020-2)</summary>
+<p>
+<h1>Minha Jornada</h1>
+ <img src="https://github.com/PITime01/Minha-Jornada/blob/master/documentos/Capa.gif" >
+
+# Parceiro acadêmico
+No segundo semestre, o parceiro acadêmico era a Ness Health.
+A proposta da Ness Health tinha o intuito de auxiliar na administração da jornada de motoristas, dessa forma, um sistema web deveria ser criado.
+
+# Sobre o projeto
+O Minha Jornada foi criado de forma atender motoristas no registro de suas jornadas, atendendo os cumprimentos legais e acordos sindicais, sendo que o registro de jornadas, possibilitaria evidênciar os cumprimentos de folgas e o pagamento de horas trabalhadas.
+
+***[Link oficial do respositório :octocat:](https://github.com/Barbara-BB/Minha-Jornada)***
+
+# Tecnologias utilizadas
+
+O Minha Jornada utilizou as seguintes tecnologias:
+
+
+- Hibernate - Comunicação da interface com o banco de dados
+- Postgres SQL - Banco de dados relacional para armazenamento dos dados
+- Spring- Framework para estrutura MVC e gerenciamento de dependências do projeto
+- HTML e CSS - Front-end, interface gráfica do projeto
+- FIGMA -Prototipação das telas do projeto
+- BrModelo - Modelagem do banco de dados
+
+# Contribuições pessoais
+Auxiliei na busca das regras de acordos coletivos, na leitura das determinações legais para motoristas rodoviários de modo que o Minha Jornada atendesse às restrições.
+
+No software, atuei focada no front-end, criando a prototipação, colaborado na criação das telas com HTML e CSS.
+Tamém colaborei com a modelagem pelo BrModelo de forma que a modelagem do banco atendesse às regras de negócio.
+
+
+  
+# Hard Skills
+- HTML e CSS - construção das telas
+- FIGMA - Prototipação do projeto para o cliente
+- BrModelo - Modelagem do banco de dados
+
+
+
+
+# Soft Skills
+ 
+- Liderança como Product Owner: 
+
+Aprimorei meus conhecimentos atuando como Product Owner, pois desta vez os requisitos e aprovações foram com uma empresa parceira, sendo assim, mais criterioso.
+
+- Adaptabilidade:
+
+Atuei como Master devido a ausência da pessoa designada em reuniões e feedbacks, desenvolvendo resiliência, pois repentinamente tive que atuar em dois postos.
+
+
+- Comando:
+
+Diante da dificuldade da presença do Master, tomei o comando de deslocar o Master para outra função e nomear outra pessoa como Master para que as atribuições de cada um fluissem como deveria ser desde o início.
+
+- Autonomia: 
+
+Eu já conhecia HTML, mas não conhecia CSS assim como não sabia como construir um CRUD(Create, Read, Update and Delete) de um banco de dados. Assistindo tutoriais, aprendi como realizá-los e apliquei no projeto.
+
+
+</p>
+</details>
        
 
 <h2>Contato</h2>
