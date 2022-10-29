@@ -342,7 +342,9 @@ Eu já conhecia HTML, mas não conhecia CSS assim como não sabia como construir
 
 # Parceiro acadêmico
 No terceiro semestre, o parceiro acadêmico foi a Ness Health.
-A Ness Health através da IonicHealth promove inovação e transformação digital na medicina diagnóstica propondo soluções que automatizam, monitoram e teleoperam equipamentos clínicos. Conheça melhor a  [IonicHealth](https://pt-br.ionic.health/).
+A Ness Health através da IonicHealth promove inovação e transformação digital na medicina diagnóstica propondo soluções que automatizam, monitoram e teleoperam equipamentos clínicos. 
+
+Conheça melhor a  [IonicHealth](https://pt-br.ionic.health/).
 
 A proposta da Ness Health era criar um LMS (Learning Management System) para cadastro e realização de treinamentos on-line e gratuitos para funcionários aperfeiçoarem suas habilidades técnicas!
 
@@ -436,7 +438,131 @@ Toda a perseverança trouxe resultados que eu não sabia ser capaz de produzir, 
 
 </p>
 </details>
+
+<details><summary>TecSoja - 4º Semestre (2022-1)</summary>
+<p>
+<h1>SkillShare</h1>
+ <div align="center">
+ <img src="https://github.com/Barbara-BB/PortfolioTG/blob/main/imagens/TecSoja.jpg" >
+ </div>
+
+# Parceiro acadêmico
+No quarto semestre, o parceiro acadêmico foi a Visiona.
+A Visiona é joint-venture entre a Embraer Defesa & Segurança e a Telebras,sendo uma empresa integradora brasileira de sistemas espaciais, com relevância para sensoriamento remoto de atuação nas áreas:
+- Agronegócio
+- Florestal
+- Energia
+- Meio ambiente
+- Óleo e Gás
+- Mineração
+- Telecomunicações
+- Governos
+- Defesa & Segurança
+
+  Conheça melhor a  [Visiona](https://www.visionaespacial.com.br).
+
+A proposta da Visiona era a criação de um aplicativo, mobile, que permitisse o agricultor da soja registrar seus dados da plantação de forma a calcular  automaticamente pelo aplicativo a sua produtividade estimada e real e seus custos de produção.
+
+# Sobre o projeto
+O TecSoja é um aplicativo mobile android que permite registrar os dados da plantação, como distância entre plantas, com estes dados inseridos pelo usuário referente a sua plantação, a produtividade estimada e real é obtida.
+
+Os custos também podem ser calculados com a inserção de dados do custos de sementes, maquinários entre outros itens que possam vir a somatizar o custo de produção.
+
+Os talhões de cada agricultor é registrado e vinculado a fazenda correspondente com auxilio da geolocalização para demarcar o talhão permitindo um melhor gerenciamento da área de plantio.
+
+Também há graficos sobre produtividade e custos para acompanhamento de tendências e uma análise mais analitica.
+
+A previsão de tempo tamém está acessível para o agricultor, pois são dados essenciais para a produção de soja.
+
+***[Link oficial do respositório :octocat:](https://github.com/ThomasPalma1/FatecAPI-04/tree/main)***
+
+# Tecnologias utilizadas
+
+TecSoja utilizou as seguintes tecnologias:
+
+
+- React Native - O React Native é um framework, baseado em React, utilizado para construir a aplicação mobile com Javascript
+- Node.JS - Processamento da aplicação pelo lado do servidor
+- Expo - Ferramenta em conjunto com o React Native que acelera  o desenvolvimento, construção, implantação e iteração
+- Postgres SQL - Banco de dados relacional para armazenamento dos dados
+- Javascript - Utilizado para programação no React Native
+- Invision - Criação do Wireframe
+- FIGMA -Prototipação das telas do projeto
+- BrModelo - Modelagem do banco de dados
+
+
+# Contribuições pessoais
+
+Atuei como Product Owner, sendo o projeto que mais exigiu da minha capacidade no levantamento de requisitos, pois necessitei estudar sobre o plantio de soja para conseguir entender o objetivo do aplicativo e entender as expectativas da empresa parceira.
+
+O conhecimento sobre produção de soja inicialmente era praticamente nulo, mas tive que destrinchar todos os seus detalhes, desta forma, também fui referência para a orientação teórica da equipe.
+
+Tive que construir todos os cáculos de produção e custos de soja, cálculos não simplórios.
+
+Elaborei todo o Wireframe do aplicativo.
+
+Colaborei na prototipação do aplicativo.
+
+Também colaborei na modelagem do banco de dados pelo BrModelo.
+
+Segue Implementações em que eu participei na construção:
+
+<table>
+  <tr>
+    <td><img src="https://github.com/Barbara-BB/PortfolioTG/blob/main/imagens/TecSoja_Play.png" width="500" /></td>
+    <td><img src="https://github.com/ThomasPalma1/FatecAPI-04/blob/entrega-02/docs/entrega-02.gif" width="500" /></td>      
+  </tr>
+   <tr>
+     <td align="center"><a href="https://tecsoja.invisionapp.com/console/TecSoja-cl1u6icq10n2x01bx5h91dp4f?sortBy=1&sortOrder=1&viewLayout=2">Wireframe - clique aqui par interagir</a></p></td>
+     <td align="center">Cálculos e informações da produção da soja.</td>
+  </tr>
+</table>
+
+
+
+
+  
+# Hard Skills
+- BrModelo - Modelagem do banco de dados
+- Invision - Criação do Wireframe
+- FIGMA -Prototipação das telas do projeto
+- BrModelo - Modelagem do banco de dados
+
+
+
+
+# Soft Skills
+ 
+
+- Estudiosa:
+
+Tive que pesquisar, ler vários artigos, aprender a calcular dados de soja, mesmo sem ter um conhecimento inicial siginificativo a respeito.
+
+As informações não foram fáceis de serem encontradas e foram de difícil compreensão, pois o que era algo trivial, que fazia parte da rotina de um agricultor, muitas vezes, era algo complexo para entender sem a vivência na agricultura.
+
+Também busquei contatos para uma elucidação, descobrindo conhecimento familiar que eu não sabia que existia.
+
+- Análitica:
+
+Mantive pensamento crítico para entender as relações entre cada item considerado na produção da soja e como o resultado final seria impactado.
+
+Atuei  de forma lógica para identificar como cada cálculo influênciava na produtividade. 
+
+
+- Input:
+
+Coletei todo o conhecimento sobre soja para construção do aplicativo, sendo a coleta de diversas formas: contatos, livros, internet e artigos.
+
+- Comunicação:
+
+Além de repassar todo meu conhecimento adquirido para a equipe, eu também apresentei todas as sprints do projeto, respondendo a inúmeras perguntas dos expectadores da apresentação sendo elas técnicas ou teóricas.
+
+
+</p>
+</details>
        
+       
+
 
 <h2>Contato</h2>
 
