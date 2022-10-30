@@ -560,7 +560,121 @@ Além de repassar todo meu conhecimento adquirido para a equipe, eu também apre
 
 </p>
 </details>
+<details><summary>Alô Cidadão - 5º Semestre (2022-2)</summary>
+<p>
+<h1>Alô Cidadão</h1>
+ <div align="center">
+ <img src="https://github.com/Barbara-BB/PortfolioTG/blob/main/imagens/Alo%20Cidadao.jpg" >
+ </div>
+
+# Parceiro acadêmico
+No quinto semestre, o parceiro acadêmico foi o Prof. Gerson da Penha Neto
+
+A proposta era a criação de um aplicativo mobile que permitisse o cidadão de São José dos Campos notificar necessidade de obras e manutenção na cidade, além de visualizar as obras na cidade.
+
+# Sobre o projeto
+O Alô Cidadão é um aplicativo mobile que permite o cidadão registrar as demandas de obras e manutenção, permitindo uma solicitação mais detalhada e visual realizada pelo solicitante. 
+
+A solução proposta permite que o cidadão realize a solicitação de obras/manutenção inserindo fotos, endereço ou geolocalização, além da descrição do problema. 
+
+O aplicativo também prevê o atendimento à LGPD nos tratamentos de dados pessoais,logs de usuários e termos e condições. 
+
+As obras sendo realizadas na cidade também poderão ser consultadas para facilitar o deslocamento dos cidadãos.
+
+Há também o chatbot Urbanitas para suporte de dúvidas sobre o aplicativo.
+
+***[Link oficial do respositório :octocat:](https://github.com/ThomasPalma1/FatecAPI-05)***
+
+# Tecnologias utilizadas
+
+TecSoja utilizou as seguintes tecnologias:
+
+
+- React Native - O React Native é um framework, baseado em React, utilizado para construir a aplicação mobile com Javascript
+- Node.JS - Processamento da aplicação pelo lado do servidor
+- Postgres SQL - Banco de dados relacional para armazenamento dos dados
+- MongoDB - Utilizado para armazenar as imagens das ocorrências cadastradas banco NoSQl para documentos.
+- Python - Linguagem de programação utilizada no servidor, juntamente ao framework Flask.
+- Flask - Framework empregado para o desenvolvimento de rotas e serviços que compõem a implementação da regra de negócio do servidor.
+- Javascript - Utilizado para programação no React Native
+- FIGMA -Prototipação das telas do projeto
+- BrModelo - Modelagem do banco de dados
+- TakeBlip - Construção do chatbot Urbanitas
+
+
+# Contribuições pessoais
+Atuei como Product Owner, definindo os requisitos e confirmando as estregas do projeto.
+
+Construí a splash e o icon no aplicativo, foi um desafio, pois não é fácil configurar o Android Studio corretamente.
+Além de precisar modificar a pasta android (responsável pelo sistema android do aplicativo) e tive que utilizar xml, que não tinha conhecimento sobre o que era e como formatar.
+
+Construí o chatbot Urbanitas e criei o icone com link de acesso para ele dentro do aplicativo.
+
+Colaborei na prototipação do aplicativo.
+
+Segue Implementações em que eu participei na construção:
+
+<table>
+  <tr>
+    <td><img src="https://github.com/ThomasPalma1/FatecAPI-05/blob/main/docs/videos/figma.gif" width="300" /></td>
+    <td><img src="https://github.com/ThomasPalma1/FatecAPI-05/blob/main/docs/videos/Entrega01.gif" width="300" /></td>
        
+  </tr>
+   <tr>
+     <td align="center">Protótipo</p></td>
+     <td align="center">Splash e icon</td>
+     
+     
+  </tr>
+ </table>
+  <div align="center">
+  <table>
+   <tr align="center">
+    <td align="center"><img src="https://github.com/ThomasPalma1/FatecAPI-05/blob/main/docs/videos/Entrega02.gif" width="300" height="600" align="center /></td>
+   </tr>
+  </tr>
+ </div>
+ <div align="center">
+   <tr>
+    <td align="center">Chatbot Urbanitas</td>
+   </tr>
+  </tr>
+  </table>
+ </div>
+</table>
+
+
+
+
+  
+# Hard Skills
+- ReactNative - Splash e Icon
+- TakeBlip - Chatbot
+- FIGMA -Prototipação das telas do projeto
+
+
+# Soft Skills
+ 
+
+- Futurista:
+
+Apesar do chatbot não ser requisito, eu sugeri um implementar porque vislumbrei que no uso do aplicativo, o usuário poderá necessitar tirar dúvidas, mas que seria dificil possuir suporte humano dedicado, então desta forma o chatbot supre essa demanda.
+
+- Intelecção:
+
+Apesar de existirem requisitos, muitas ideias implementadas no projeto foram propostas por mim em concordância com o parceiro acadêmico.
+
+
+- Comando:
+
+Infelizmente nem todos os participantes do projeto estavam ativos e por isso colabarei com a decisão de desvinculá-lo do projeto.
+
+
+</p>
+</details>
+       
+       
+
        
 
 
