@@ -618,30 +618,16 @@ Segue Implementações em que eu participei na construção:
   <tr>
     <td><img src="https://github.com/ThomasPalma1/FatecAPI-05/blob/main/docs/videos/figma.gif" width="300" /></td>
     <td><img src="https://github.com/ThomasPalma1/FatecAPI-05/blob/main/docs/videos/Entrega01.gif" width="300" /></td>
+   <td align="center"><img src="https://github.com/ThomasPalma1/FatecAPI-05/blob/main/docs/videos/Entrega02.gif" width="300" height="600" align="center" /></td>
        
   </tr>
    <tr>
      <td align="center">Protótipo</p></td>
      <td align="center">Splash e icon</td>
-     
-     
-  </tr>
+ <td align="center">Chatbot Urbanitas</td>
+     </tr>
  </table>
-  <div align="center">
-  <table>
-   <tr align="center">
-    <td align="center"><img src="https://github.com/ThomasPalma1/FatecAPI-05/blob/main/docs/videos/Entrega02.gif" width="300" height="600" align="center /></td>
-   </tr>
-  </tr>
- </div>
- <div align="center">
-   <tr>
-    <td align="center">Chatbot Urbanitas</td>
-   </tr>
-  </tr>
-  </table>
- </div>
-</table>
+
 
 
 
