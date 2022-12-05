@@ -637,6 +637,7 @@ Segue Implementações em que eu participei na construção:
 - ReactNative - Splash e Icon
 - TakeBlip - Chatbot
 - FIGMA -Prototipação das telas do projeto
+- LOG -Filtro para omitir e-mail
 
 
 # Soft Skills
@@ -654,7 +655,10 @@ Apesar de existirem requisitos, muitas ideias implementadas no projeto foram pro
 - Comando:
 
 Infelizmente nem todos os participantes do projeto estavam ativos e por isso colabarei com a decisão de desvinculá-lo do projeto.
-
+ 
+ - Input
+ 
+ Devido a curiosidade de como omitir o e-mail de logs, utilizei grande porcentagem de horas dos ultimos dias antes da apresentação final pesquisando e aprendendo sobre este assunto. A curiosidade sobre logs fez com que eu ampliasse o assunto além do que eu tinha de expectativa para o projeto.
 
 </p>
 </details>
