@@ -662,6 +662,131 @@ Infelizmente nem todos os participantes do projeto estavam ativos e por isso col
 
 </p>
 </details>
+<details><summary>Money Mind - 6º Semestre (2023-1)</summary>
+<p>
+<h1>Money Mind</h1>
+ <div align="center">
+ <img src="https://github.com/Barbara-BB/PortfolioTG/blob/main/imagens/Logo_MM.png" >
+ </div>
+
+# Parceiro acadêmico
+No sexto semestre, o parceiro acadêmico foi a JP Morgan.
+ 
+A JP Morgan oferece serviços financeiros, sendo uma referência neste setor, deste modo, possui reconhecimento mundial e atua oferecendo serviços para um publico diferenciado, sendo eles:
+- Private - Empresas com grande diferencial de mercado e consolidadas mundialmente.
+- Chase - Empresas que apresentam potencial de mercado e perspectivas de sucesso.
+
+  Conheça melhor a  [JP Morgan - Private](https://privatebank.jpmorgan.com/gl/en/about-us)
+ 
+  Conheça melhor a  [JP Morgan - Chase](https://www.jpmorganchase.com/)
+
+A proposta da empresa era a criação de um sistema web, que utilizasse os dados abertos do open finance que permitisse comparar tarifas e taxas entre bancos de forma a trazer maior transparência ao cidadão brasileiro sobre os comportamentos destas cobranças,além das menores tarifas disponíveis e com este propósito seria possível realizar escolhas melhores no momento de ter conta em bancos.
+
+# Sobre o projeto
+O Money Mind é um sistema web para comparar terifas de serviços bancários, verificar menores e maiores tarifas e obter sugestões por IA de serviços com base no perfil do usuário.
+Características principais do sistema:
+
+- Painel para consulta de taxas de produtos/serviços nas seguintes categorias: Bancos, produtos/serviços, moedas, taxas.
+
+- Dashboard que contém as seguintes categorias: banco com taxas mais baixas e mais altas; histograma da média de uma tarifa com tendência; cinco principais bancos com taxas mais baixas em um período.
+
+- Ferramenta de comparação de preços tarifários onde o usuário pode comparar os preços de: produtos/serviços, bancos, moedas.
+ 
+- IA para sugestões de serviços com base nas pesquisas do usuário
+
+***[Link oficial do respositório :octocat:](https://github.com/Barbara-BB/FatecAPI-06)***
+
+# Tecnologias utilizadas
+
+- Money Mind utilizou as seguintes tecnologias:
+
+- TypeScript: Utilizado para tipagem e criação de interfaces
+
+- VueJs: Utilizado para a criação da SPA, componentes e manipulação de eventos
+
+- Java: Usado para o desenvolvimento back-end da aplicação.
+
+- Spring: Utilizado para possibilitar a troca de dados entre o cliente e o servidor.
+
+- Python: Usado para raspagem de dados e implementação da IA
+
+- MySQL: Banco de dados relacional para a persistência e manipulação de dados.
+
+- Scikit-learn: Utilizado para o aprendizado da IA
+
+- TensorFlow: Utilizada na IA para aprendizado de máquina.
+
+
+# Contribuições pessoais
+
+- Atuei como Scrum Master, sendo a minha primeira experiência oficial para acompanhamento das tarefas pelo JIRA,realização de reuniões e ser o ponto focal para garantia do fluxo das atividades .
+
+- Auxiliei também o Product Owner com o levatamento e entendimento dos requisitos, conversa com cliente e User Stories.
+
+- Elaborei todo o Wireframe do sistema.
+
+- Colaborei na prototipação do sistema.
+
+- Ajustei tela para versão de página "light Mode".
+ 
+- Criei tela de login e cadastro.
+
+
+Segue Implementações em que eu participei na construção:
+
+<table>
+  <tr>
+    <td><img src="https://github.com/Barbara-BB/FatecAPI-06/blob/main/docs/wireframe.gif" width="500" /></td>      
+  </tr>
+   <tr>
+    <td><img src="https://github.com/Barbara-BB/PortfolioTG/blob/main/imagens/PaineldeTarifas.jpg" width="500" /></td>      
+  </tr>
+
+</table>
+
+
+
+
+  
+# Hard Skills
+- Java: Sei fazer com auxilio.
+- Spring Boot: Sei fazer com autonomia.
+- Python: Sei fazer com autonomia.
+- TypeScript: Sei fazer com auxilio.
+- Vue: Sei fazer com autonomia.
+- MySQL: Sei fazer com autonomia.
+- Scikit-Learn: Sei fazer com auxilio.
+- TensorFlow: Sei fazer com auxilio.
+
+
+
+
+# Soft Skills
+ 
+
+- Comunicação:
+
+O feedback das sprints, assim como notas e necessidades de ajustes ficaram como minha responsabilidade como Scrum Master, então tive que me empenhar em proporcionar uma comunicação clara, efetiva e acessível a todos integrantes do grupo.
+Também trouxe a ideia e proposta inicial do sistema para o contexto visual, entendendo como cada painel deveria funcionar.
+
+
+- Organização:
+
+Organizei as sprints no JIRA para metodologias ágeis de forma a ficar visual e atendendo todas as premissas do Scrum. 
+
+
+- Desenvolvimento:
+
+Colaborei com meu conhecimento e experiência em ser Product Owner em outras APIs de modo a auxiliar no desenvolvimento do integrante que estava nesta função.
+
+- Adaptabilidade:
+
+Aprendi a manter a funcionalidade de um projeto mesmo com empecilhos referente à base dados, ajustei e reconfigurei de forma a trazer uma informação de valor.
+
+
+</p>
+</details>
+
        
        
 
