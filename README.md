@@ -73,8 +73,8 @@ Portanto este repositório tem o intuito de apresentar os 6 projetos, chamados A
      </tr>
      <tr>
         <td align="center">Python</td>
-        <td align="center">X</td>
         <td align="center"></td>
+        <td align="center">X</td>
         <td align="center"></td>
      </tr>
      <tr>
@@ -133,6 +133,18 @@ Portanto este repositório tem o intuito de apresentar os 6 projetos, chamados A
      </tr>
          <tr>
         <td align="center">C++ Arduino</td>
+        <td align="center"></td>
+        <td align="center">X</td>
+        <td align="center"></td>
+     </tr>
+     <tr>
+        <td align="center">Vue</td>
+        <td align="center">X</td>
+        <td align="center"></td>
+        <td align="center"></td>
+     </tr>
+     <tr>
+        <td align="center">Scikit-learn</td>
         <td align="center"></td>
         <td align="center">X</td>
         <td align="center"></td>
@@ -670,16 +682,9 @@ Infelizmente nem todos os participantes do projeto estavam ativos e por isso col
  </div>
 
 # Parceiro acadêmico
-No sexto semestre, o parceiro acadêmico foi a JP Morgan.
+No sexto semestre, o parceiro acadêmico foi um banco global com ampla experiência no setor financeiro, internacionalmente conhecido e reconhecido por sua competência e inovação, sendo uma referência em sua área de atuação.
+O banco oferece para a sociedade uma extensa quantidade de serviços financeiros, atendendo um publico diferenciado e de grande potencial econômico.
  
-A JP Morgan oferece serviços financeiros, sendo uma referência neste setor, deste modo, possui reconhecimento mundial e atua oferecendo serviços para um publico diferenciado, sendo eles:
-- Private - Empresas com grande diferencial de mercado e consolidadas mundialmente.
-- Chase - Empresas que apresentam potencial de mercado e perspectivas de sucesso.
-
-  Conheça melhor a  [JP Morgan - Private](https://privatebank.jpmorgan.com/gl/en/about-us)
- 
-  Conheça melhor a  [JP Morgan - Chase](https://www.jpmorganchase.com/)
-
 A proposta da empresa era a criação de um sistema web, que utilizasse os dados abertos do open finance que permitisse comparar tarifas e taxas entre bancos de forma a trazer maior transparência ao cidadão brasileiro sobre os comportamentos destas cobranças,além das menores tarifas disponíveis e com este propósito seria possível realizar escolhas melhores no momento de ter conta em bancos.
 
 # Sobre o projeto
@@ -714,7 +719,6 @@ Características principais do sistema:
 
 - Scikit-learn: Utilizado para o aprendizado da IA
 
-- TensorFlow: Utilizada na IA para aprendizado de máquina.
 
 
 # Contribuições pessoais
@@ -753,10 +757,9 @@ Segue Implementações em que eu participei na construção:
 - Spring Boot: Sei fazer com autonomia.
 - Python: Sei fazer com autonomia.
 - TypeScript: Sei fazer com auxilio.
-- Vue: Sei fazer com autonomia.
+- Vue: Sei fazer com auxilio.
 - MySQL: Sei fazer com autonomia.
-- Scikit-Learn: Sei fazer com auxilio.
-- TensorFlow: Sei fazer com auxilio.
+- Scikit-Learn: Sei fazer com autonomia.
 
 
 
